@@ -1,8 +1,11 @@
-Name: Priyanshu Ranka /n
-Project_2 readme \n
-NUID: 002305396 \n
-Course and Term: PRCV, Spring 2025 
-OS and IDE: Windows 11, Visual Studio 
+Name: Priyanshu Ranka 
+
+Project_2 readme 
+
+NUID: 002305396 
+
+Course and Term: PRCV, Spring 2025 OS and IDE: Windows 11, Visual Studio 
+
 NO TIME TRAVEL DAYS ARE BEING USED. 
 
 # Content-Based Image Retrieval (CBIR) Using Classical and Deep Learning Features 
