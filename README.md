@@ -1,4 +1,4 @@
-Name: Priyanshu Ranka \n
+Name: Priyanshu Ranka /n
 Project_2 readme \n
 NUID: 002305396 \n
 Course and Term: PRCV, Spring 2025 
